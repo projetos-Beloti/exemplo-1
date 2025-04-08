@@ -66,11 +66,78 @@
 
    //condiçao ternaria (if = ?) (else = :)
 
-   let valor2 = 300;
+   //let valor2 = 300;
 
-   let resultado = valor2 == 300 ? "certo": "errado";
-   console.log(resultado)
+   //let resultado = valor2 == 300 ? "certo": "errado";
+   //console.log(resultado)
+
+   // switch case
+
+      //  let time = "corinthians";
+     //   switch(time){
+    //            case "corinthians":
+      //          console.log("melhor time")
+     ///           break;
+    //    case "sao paulo":
+    //            console.log("nao é um time")
+    //            break
+
+    //    case "palmeiras":
+     //           console.log("nao tem mundial")
+    //            break;
+   //     defalt:
+    //      console.log("nenhuma das opcoes")
+
+
+    //    }
         
+
+   //estrutura de laço de repeticao
+
+  // for(let i = 0; i<10 ; i++){
+    //    console.log("o valor de i é:")
+
+  // }
+
+
+  //while
+
+  //let w = 0;
+
+ // while(w <=10 ){
+   //     console.log("o valor de w ´w",w)
+   //     w++
+
+
+  //}
+
+    // do while
+
+   // let z = 10;
+
+  //  do{
+   //     console.log("do while é",z)
+   //     z++
+
+  //  } while(z <= 100)
+
+
+//funçoes
+
+function saudacao(nome){
+   //console.log("seja bem vindo", nome)
+   console.log(`seja bem vindo ${nome}`) //strings literais
+
+}
+saudacao("fiap")
+
+function semaforo (){
+        let sinal = "amarelo";
+        console.log(`o semaforo esta ${sinal}`)
+}
+semaforo()
+
+
 
 
 
