@@ -1,1 +1,1 @@
-alguns trabalhos da faculdade e projetos proprios
+alguns trabalhos da faculdade e projetos proprios 
